@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfMissionSlot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MissionSlot>
+    <AiShortName>NullAI</AiShortName>
+    <AiVersion>0.1</AiVersion>
+    <AllyID>0</AllyID>
+    <AllyName>Alliance 1</AllyName>
+    <Color>16711680</Color>
+    <IsHuman>true</IsHuman>
+    <IsRequired>true</IsRequired>
+    <TeamID>0</TeamID>
+    <TeamName>PLAYER_NAME</TeamName>
+  </MissionSlot>
+  <MissionSlot>
+    <AiShortName>NullAI</AiShortName>
+    <AiVersion>0.1</AiVersion>
+    <AllyID>1</AllyID>
+    <AllyName>Alliance 2</AllyName>
+    <Color>255</Color>
+    <IsHuman>false</IsHuman>
+    <IsRequired>false</IsRequired>
+    <TeamID>1</TeamID>
+    <TeamName>Enemy</TeamName>
+  </MissionSlot>
+</ArrayOfMissionSlot>
